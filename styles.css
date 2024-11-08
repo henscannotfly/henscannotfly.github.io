@@ -11,6 +11,19 @@ body {
     background-size: 100% 100%;
 }
 
+
+.banner {
+    position: absolute; 
+    top: 0;
+    left: 0; 
+    background-color: #DDEEEE; 
+    width: 100%;position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #DDEEEE; 
+    width: 100%;
+}
+
 .project-section {
     background: #add8e6;
     border-radius: 2px;
