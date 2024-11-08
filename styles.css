@@ -13,12 +13,19 @@ body {
 
 
 .banner {
-    font-family: system-ui, -apple-system, sans-serif;
     position: absolute; 
     top: 20;
     left: 0; 
     background-color: #DDEEEE; 
     text-align: center;
+}
+
+.banner-content {
+    font-family: system-ui, -apple-system, sans-serif;
+    width: 800px; 
+    margin: 0 auto; 
+    padding: 10px; 
+    border: 1px solid #000;
 }
 
 .project-section {
