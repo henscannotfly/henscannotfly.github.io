@@ -14,14 +14,9 @@ body {
 
 .banner {
     position: absolute; 
-    top: 0;
+    top: 20;
     left: 0; 
     background-color: #DDEEEE; 
-    width: 100%;position: absolute; 
-    top: 0; 
-    left: 0; 
-    background-color: #DDEEEE; 
-    width: 100%;
     text-align: center;
 }
 
