@@ -12,9 +12,9 @@ body {
 }
 
 .project-section {
-    background: #2d3730;
+    background: #ADD8E6;
     border-radius: 10px;
-    padding: 2rem;
+    padding: 0rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
