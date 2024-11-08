@@ -72,7 +72,7 @@ body {
 .tag {
     background: #ebf4ff;
     color: #4299e1;
-    padding: 0rem 0rem;
+    padding: 0.25rem 0.75rem;
     border-radius: 9999px;
     font-size: 0.75rem;
 }
